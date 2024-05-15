@@ -18,7 +18,7 @@ html {
   background-color: #1b1919;
   display: grid;
   align-items: end;
-  padding-bottom: 133px;
+  align-content: center;
 }
 
 h1,
